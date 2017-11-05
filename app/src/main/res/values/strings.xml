@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">GS Prototype</string>
+    
+    <string-array name="items">
+        <item>Tomatoes</item>
+        <item>Pasta</item>
+        <item>Milk</item>
+        <item>Coffee</item>
+        <item>Bread</item>
+        <item>Eggs</item>
+        <item>Yogurt</item>
+        <item>Avocados</item>
+
+    </string-array>
+
+    <string-array name="itemDescriptions">
+        <item>Roma tomatoes for pasta sauce</item>
+        <item>Sphagetti noodles for pasta dinner</item>
+        <item>Milk to go with coffee</item>
+        <item>Cold brew w/ no sweetener</item>
+        <item>Daves Killer bread 21 grains</item>
+        <item>For baking</item>
+        <item>Snacks</item>
+        <item>Guacamole</item>
+
+    </string-array>
+
+    <string-array name="quantities">
+        <item>7</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string-array name="lists">
+        <item>List 1</item>
+        <item>Birthday List</item>
+        <item>Weekly Grocceries</item>
+    </string-array>
+
+    <string-array name="listDescriptions">
+        <item>my first list</item>
+        <item>things for birthday next week</item>
+        <item>frequently bought items</item>
+    </string-array>
+
+    <string-array name="dates">
+        <item>01/25/2017</item>
+        <item>03/04/2017</item>
+        <item>04/11/2017</item>
+    </string-array>
+
+</resources>
